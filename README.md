@@ -20,5 +20,5 @@ To acces this project, you need to clone it using these steps
 ### Live Site
 View [live](https://)
 ### Licence
-This project is under the  [MIT](LICENSE) licence
-License format: 
+This project is under the  [MIT](LICENCE) licence.
+License format: git status

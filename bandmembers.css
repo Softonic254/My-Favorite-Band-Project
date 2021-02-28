@@ -1,0 +1,94 @@
+tr{
+    background-color: lightgray;
+}
+
+
+table{
+    height: auto;
+    width: 70%;
+    border: 2px solid green;
+    border-radius: 15px;
+    padding: 3px;
+    margin-top: 1%;
+    margin-left: 14%;
+    font-size: large;
+}
+
+td{
+    text-align: center;
+    border-radius: 8px;
+}
+
+.adjust{
+    padding-left: 22px;
+}
+
+
+a:hover{
+    color: lightgray;
+    font-size: 120%;
+    background-color: rgb(9, 204, 204);
+    padding: 5px;
+    border-radius: 5px;
+}
+
+a:visited{
+    color: purple;
+    background-color: transparent;
+}
+
+a:link{
+    color: blue;
+
+}
+
+.link{
+    margin-left: 14%;
+    margin-top: 5%;
+    font-size: large;
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.bigger{
+    font-size: x-large;
+}
+
+.contact{
+    font-style: italic;
+    font-size: 20px;
+    width: 450px;
+    margin-left: 35%;
+    border-radius: 8px;
+    margin-top: 1%;
+    padding: 1%;
+}
+
+.traw{
+    background-color: powderblue;
+    padding: 20px;
+    border: 1px solid black;
+
+}
+
+
+.linkalbum{
+    margin-left: 30%;
+}
+
+.albums{
+    font-size: 30px;
+    width: 550px;
+    margin-left: 30%;
+    border-radius: 8px;
+
+}
+
+.linkauthor{
+    margin-left: 35%;
+    margin-top: 8%;
+}

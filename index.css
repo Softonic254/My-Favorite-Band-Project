@@ -1,0 +1,79 @@
+p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgray;
+    padding: 3px;
+    border-radius: 4px;
+}
+
+table{
+    background-color:rgb(194, 193, 193);
+    margin: 1% 10% 10% 15%;
+    border: 3px solid green;
+    border-radius: 15px;
+    padding: 10px 20px 10px 20px;
+    height: 500px;
+    width: 1200px;
+    
+}
+
+
+h1{
+    font-size: 80px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.link{
+    margin-left: 17%;
+    font-size: larger;
+}
+
+.album{
+    font-size: x-large;
+    padding: 4%;
+}
+
+.list{
+    font-size: 18px;
+    word-spacing: 8px;
+}
+
+.band{
+    padding: 46px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2{
+    color: maroon;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bandfont{
+    font-style: italic;
+    font-size: 18px;
+    font-family: cursive;
+}
+
+td{
+    padding: 4px;
+}
+
+a:hover{
+    color: lightgray;
+    font-size: 120%;
+    background-color: rgb(9, 204, 204);
+    padding: 5px;
+    border-radius: 5px;
+}
+
+a:visited{
+    color: purple;
+    background-color: transparent;
+}
+
+a:link{
+    color: blue;
+    font-size: 19px;
+}

@@ -1,4 +1,4 @@
-# Music Band
+# Favourite Music Band
 ## Author
 Kiptoo Rotich
 ## Description
